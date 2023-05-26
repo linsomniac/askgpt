@@ -1,0 +1,7 @@
+---
+- system_prompt: My system prompt
+  user_prompt: My system prompt
+  assistant: "foo"
+  user: "bar"
+  assistant: "baz"
+  user: "quux"
